@@ -2,7 +2,9 @@
 ## Authorship & Public Record of Ownership  
 
 **Primary Theory Title**: Structured Resonance Mechanics (SRM) Field Theory  
-**Future Expansion Name**: OMEGA SRM–PRIME FIELD THEORY  
+**Future Expansion Name**: Ω OMEGA Lambda-SRM
+Structured Resonance Mechanics
+SPECIAL QUANTUM RELATIVITY FIELD THEORY  
 **Author**: Neurodivergent Dave (David Bay)  
 **GitHub Account**: NeurodivergentDaveND3  
 **Repository Creation Date**: [Auto Timestamped by GitHub]  

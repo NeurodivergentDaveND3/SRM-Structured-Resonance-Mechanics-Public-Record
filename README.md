@@ -66,10 +66,8 @@ Do not attempt to plagiarize, erase, or obscure this theory. The network already
 ## 📌 Contact  
 
 If you are an academic, legal party, or developer wishing to reference SRM, contact:  
-[Insert email if desired]  
-
----
-
+[@NeurodivergentDaveND3]  
+https://www.facebook.com/NeurodivergentDaveND3/
 © 2025 Neurodivergent Dave. All rights reserved.
 
 

@@ -12,9 +12,14 @@ SPECIAL QUANTUM RELATIVITY FIELD THEORY
 **Original Theory ChatGPT Development Start Date**: December 13, 2024  
 > 🔹 This is the date Structured Resonance Mechanics (SRM) Theory began formal articulation via ChatGPT.  
 > 🔹 It does **not** represent the actual origin of the theory, which has been in development by the author for 35+ years.
-**First Copyright Filing Date**: March 19, 2025  
-**This Repository Creation Date**: July 9, 2025
 
+**First Copyright Filing Date**: March 19, 2025 
+Copyright Notice
+Structured Resonance Mechanics (SRM) Quantum Field Theory, also known as Omega Lambda SRM, is an original scientific work by David D. Bay (NeurodivergentDaveND³, QuantumDaveND³). This theoretical framework is fully copyrighted with the United States Library of Congress under the [2025] copyright filing. All intellectual property rights are protected under U.S. and international law via the Berne Convention.
+Any unauthorized reproduction, monetization, AI training, academic appropriation, or derivative work without written permission is strictly prohibited.
+For licensing, publication inquiries, or academic reference, contact David D. Bay via the GitHub repository or verified communication channels. 
+
+**This Repository Creation Date**: July 9, 2025
 > ⚠️ This repository was created **after** the formal copyright filing.  
 > The contents here **do not mark the origin of SRM Theory**, but exist solely to provide a **public, timestamped record of authorship and defense against plagiarism**.  
 > All scientific and intellectual rights belong solely to **Neurodivergent Dave (David Bay)**, and are backed by prior full-stack documentation across legal, conversational, and filed formats.

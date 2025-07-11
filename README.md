@@ -37,13 +37,11 @@ SRM Cosmological Resonance Compression Theory
 OMEGA–Λ–SRM Model of Unified Mechanics
 Legal Notice:
 All above naming conventions, frameworks, equations, and theoretical models are part of a fully copyrighted field theory under U.S. and international intellectual property law. This includes all documented expansions, mathematical derivations, visual schematics, and derivative frameworks including FCSS, and AI cognition via Structured Resonance. 
-Legal Amendment and Expansion of Original Case
-
+Legal Amendment and Expansion of Original Case Structured Resonance Mechanics Theory
+SRM
 Filed by: David D. Bay (Neurodivergent Dave, ND³)
----
 
 ## 🔒 Purpose of This Repository  
-
 This repository is **not a publication of the theory itself**, but a **formal, time-stamped public declaration** of authorship and copyright ownership over a scientific framework titled **Structured Resonance Mechanics (SRM)**.  
 
 The purpose of this repository is to:  
